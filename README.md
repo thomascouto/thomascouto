@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @thomascouto
-- 👀 I’m interested in Java, JavaScript, TypeScript, Node.JS, React and React Native
+- 👀 I’m interested in Design Patterns, TDD, Clean Architecture, Java, JavaScript, TypeScript, Node.JS, React and React Native
 - 🌱 I’m currently learning React Native/GraphQL
